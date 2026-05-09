@@ -1,0 +1,13 @@
+{
+  "name": "CrowPanel Smart HMI",
+  "description": "Advanced Smart Home HMI for CrowPanel 5-inch display, featuring Bento Grid design, AI suggestions, and Secure Alarm control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MQTT Integration",
+    "Gemini AI Suggestions",
+    "Data Visualization"
+  ]
+}
